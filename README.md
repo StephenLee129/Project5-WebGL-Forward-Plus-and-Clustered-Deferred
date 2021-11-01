@@ -13,7 +13,7 @@ WebGL Forward+ and Clustered Deferred Shading
 
 ### Demo Video/GIF
 
-![](img/project5)
+The gif file is too large to upload to github. It can be accessed here instead: https://drive.google.com/file/d/1Xd6pp6F3XdV6gltzo06OcMF4TP0W7-FW/view?usp=sharing
 
 # Project Overview
 
